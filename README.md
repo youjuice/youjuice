@@ -9,7 +9,7 @@
 
 <!--Tech-->
 ### (๑•̀ɞ•́๑)✧ 
-<p>Techs that I've used at least once</p>
+<p>✨Techs that I've used at least once</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
