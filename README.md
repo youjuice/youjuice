@@ -5,7 +5,7 @@
 <a href="mailto:yooju000326@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="http://www.instagram.com/foenrwn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/dbwn_fav" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
-<br></br>
+
 
 <!--Tech-->
 <h3>✨Tech✨</h3>
