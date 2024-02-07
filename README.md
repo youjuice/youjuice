@@ -5,7 +5,7 @@
 <a href="mailto:yooju000326@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="http://www.instagram.com/foenrwn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/dbwn_fav" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
-
+<br></br>
 
 <!--Tech-->
 <h3>✨Tech✨</h3>
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=css3&logoColor=white"/></a></p>
+<br></br>
 
 <!--Stat-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
