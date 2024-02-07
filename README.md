@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=css3&logoColor=white"/></a></br>
-<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=css3&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a></br>
+<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=Unreal_Engine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=Adobe_After_Effects&logoColor=white"/></a></p>
 <br></br>
 
 <!--Stat-->
