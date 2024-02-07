@@ -1,4 +1,4 @@
-### ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡♪
+### About Me ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡♪
 
 <!--Badge-->
 <a href="https://youjuice.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-EA4AAA?style=flat&logo=GithubSponsors&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 <br></br>
 
 <!--Tech-->
-<h3>✨Tech✨</h3>
+### Tech ꒰✘Д✘◍꒱
 <p>Techs that I've used at least once</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
