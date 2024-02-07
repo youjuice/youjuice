@@ -8,14 +8,15 @@
 <br></br>
 ✨**Tech**✨
 _Techs that I've used at least once
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat-square&logo=css3&logoColor=white"/></a>
+<br></br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=css3&logoColor=white"/></a>
 <br></br>
 <!--Stat-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
