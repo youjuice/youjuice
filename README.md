@@ -13,7 +13,7 @@ _Techs that I've used at least once
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat-square&logo=css3&logoColor=white"/></a>
 <br></br>
