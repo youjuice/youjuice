@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://youjuice.github.io/" target="_blank"><img src="https://img.shields.io/badge/GithubSponsors-EA4AAA?style=plastic&logo=GithubSponsors&logoColor=white"/></a>
+<a href="https://youjuice.github.io/" target="_blank"><img src="https://img.shields.io/badge/GithubSponsors-EA4AAA?style=plastic&logo=Github Blog&logoColor=white"/></a>
