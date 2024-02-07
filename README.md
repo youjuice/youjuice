@@ -8,6 +8,6 @@
 <br></br>
 <!--Stat-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte" width=56%/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte" width=50%/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youjuice&layout=compact&theme=catppuccin_latte" width=38%/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youjuice&layout=compact&theme=catppuccin_latte" width=42%/></a>
