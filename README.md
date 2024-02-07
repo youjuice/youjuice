@@ -7,8 +7,7 @@
 <a href="https://blog.naver.com/dbwn_fav" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <br></br>
 ✨**Tech**✨</br>
-Techs that I've used at least once
-<br></br>
+Techs that I've used at least once</br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
