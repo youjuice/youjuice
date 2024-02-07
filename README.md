@@ -8,4 +8,4 @@
 <br></br>
 <!--Stat-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youjuice)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youjuice&layout=compact)
