@@ -7,4 +7,4 @@
 <a href="https://blog.naver.com/dbwn_fav" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
 <br></br>
 <!--Stat-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=buefy)
