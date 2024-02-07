@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a></br>
 <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=Unreal_Engine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=Adobe_After_Effects&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a></p>
 <br></br>
 
 <!--Stat-->
