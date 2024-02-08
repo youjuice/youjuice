@@ -24,5 +24,5 @@
 
 <!--Stat-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&custom_title=Yuju's&nbsp;Github&nbsp;Stats" width=60%/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&custom_title=Yuju's&nbsp;Github&nbsp;Stats"/></a>
 
