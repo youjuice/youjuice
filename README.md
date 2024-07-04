@@ -26,7 +26,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/youjuice?pet-id=596649105017293780"
-    width="600"
+    width="480"
     height="120"
   />
 </a>
