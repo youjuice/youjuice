@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a></p>
 <br></br>
 
-<!--Stat-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&custom_title=Yuju's&nbsp;Github&nbsp;Stats"/></a>
-
 <!--GitAnimals-->
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -34,4 +30,7 @@
     height="120"
   />
 </a>
-  
+
+<!--Stat-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&custom_title=Yuju's&nbsp;Github&nbsp;Stats"/></a>
