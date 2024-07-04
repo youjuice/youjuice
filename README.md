@@ -26,3 +26,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=youjuice&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&custom_title=Yuju's&nbsp;Github&nbsp;Stats"/></a>
 
+<!--GitAnimals-->
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/youjuice?pet-id=596649105017293780"
+    width="600"
+    height="120"
+  />
+</a>
+  
