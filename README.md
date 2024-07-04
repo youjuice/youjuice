@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a></p>
-<br></br>
 
 <!--GitAnimals-->
 <a href="https://github.com/devxb/gitanimals">
