@@ -24,11 +24,12 @@
 <!--GitAnimals-->
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/youjuice?pet-id=596649105017293780"
+    src="https://render.gitanimals.org/lines/youjuice?pet-id=594878804264767972"
     width="480"
     height="120"
   />
 </a>
+  
 
 <!--Stat-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
