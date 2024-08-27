@@ -17,10 +17,10 @@
 <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a></br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=HTML5&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Java_Script-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a></p>
