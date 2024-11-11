@@ -1,4 +1,4 @@
-### ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡♪
+### ʕമ˕മ ʔ♡ᐝ
 <p>🐰 About Me</p>
 <!--Badge-->
 <a href="https://youjuice.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github_Blog-EA4AAA?style=flat&logo=GithubSponsors&logoColor=white"/></a>
