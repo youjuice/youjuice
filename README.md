@@ -19,10 +19,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Babylon.js-2A2342?style=flat&logo=babylondotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebGL-333333?style=flat&logo=WebGL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=UnrealEngine&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=UnrealEngine&logoColor=white"/></a></p>
 
 <!--GitAnimals-->
 <a href="https://github.com/devxb/gitanimals">
